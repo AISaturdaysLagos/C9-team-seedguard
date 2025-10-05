@@ -1,0 +1,31 @@
+# Core data handling
+numpy
+pandas
+tqdm
+requests
+beautifulsoup4
+snscrape
+praw
+emoji
+unidecode
+regex
+jsonlines
+python-dotenv
+joblib
+
+# NLP preprocessing
+nltk
+spacy
+gensim
+textblob
+vaderSentiment
+
+# Visualization
+matplotlib
+seaborn
+plotly
+folium
+wordcloud
+dash
+streamlit
+geopandas

@@ -1,0 +1,13 @@
+# Core ML
+scikit-learn
+joblib
+
+# Transformers & embeddings
+torch
+transformers
+sentence-transformers
+
+# Topic modeling
+bertopic
+umap-learn
+hdbscan
