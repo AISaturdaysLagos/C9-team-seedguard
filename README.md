@@ -1,7 +1,7 @@
 # 🌱 SeedGuard AI
 **Mapping the GMO Narrative Landscape for True Agricultural Empowerment & Sovereignty**
 
-![Seed_image](https://www.freepik.com/premium-photo/green-sprout-growing-soil-with-outdoor-sunlight-green-blur-growing-environment-concept_7161692.htm#fromView=keyword&page=1&position=37&uuid=5ddd6c91-351a-4741-a3a0-49404eb97b8c&query=Seed)
+![Seed_image](/C9-team-seedguard/187.jpg)
 
 ---
 
