@@ -1,7 +1,7 @@
 # 🌱 SeedGuard AI
 **Mapping the GMO Narrative Landscape for True Agricultural Empowerment & Sovereignty**
 
-![Seed_image](/C9-team-seedguard/187.jpg)
+![Seed_image](./187.jpg)
 
 ---
 
