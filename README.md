@@ -6,13 +6,13 @@
 ---
 
 ## 📘 Overview
----
+
 SeedGuard AI is a Natural Language Processing (NLP) and Machine Learning (ML) project that explores the global conversation surrounding **genetically modified organisms (GMOs)** and **seed sovereignty** across Africa. By collecting thousands of publicly available discussions from **X App (Twitter)** and **Reddit**, our system identifies, analyzes, and maps emerging narratives, emotional tones, and stakeholder perspectives shaping Africa’s agricultural future.
 
 ---
 
 ## 🎯 Objectives
----
+
 - Collect and preprocess text data from online platforms such as X (Twitter) and Reddit using targeted keywords (e.g., *African seed sovereignty*, *agroecology*, *genetically modified maize*, etc.).
 - Apply advanced NLP models (DistilBERT, BERTopic) to automatically **cluster**, **categorize**, and **analyze** public opinions.
 - Map connected topics, sentiment shifts, and emotional distributions across African regions.
@@ -21,7 +21,7 @@ SeedGuard AI is a Natural Language Processing (NLP) and Machine Learning (ML) pr
 ---
 
 ## 🧩 Project Workflow
----
+
 
 ### **1️⃣ Data Collection & Preprocessing**
 - Tools: `snscrape`, `PRAW`, `BeautifulSoup`, `requests`
@@ -44,7 +44,7 @@ SeedGuard AI is a Natural Language Processing (NLP) and Machine Learning (ML) pr
 ---
 
 ## 🏗️ Folder Structure
----
+
 ```
 C9-team-seedguard/
 │
@@ -71,7 +71,7 @@ C9-team-seedguard/
 ---
 
 ## ⚙️ Installation & Setup
----
+
 
 ### **1️⃣ Clone the Repository**
 ```bash
@@ -108,7 +108,7 @@ REDDIT_SECRET=your_reddit_secret
 ---
 
 ## 🧠 Key Technologies
----
+
 - **Data Collection:** `snscrape`, `PRAW`, `BeautifulSoup`
 - **NLP & Modeling:** `DistilBERT`, `BERTopic`, `Transformers`, `HDBSCAN`, `UMAP`
 - **Visualization:** `Plotly`, `Folium`, `Seaborn`, `Dash`, `Streamlit`
@@ -117,7 +117,7 @@ REDDIT_SECRET=your_reddit_secret
 ---
 
 ## 📊 Expected Deliverables
----
+
 - Clean dataset of GMO-related discussions across Africa.
 - NLP model capable of identifying key narratives and stakeholder categories.
 - Interactive visualization dashboard for exploring topic and sentiment trends.
@@ -126,7 +126,7 @@ REDDIT_SECRET=your_reddit_secret
 ---
 
 ## 👥 Team Roles
----
+
 | Role | Name | Responsibilities |
 |------|------|------------------|
 | **Tech Lead** | *Ismail O. Daud* | Project structure, workflow, integration, model supervision |
@@ -138,7 +138,7 @@ REDDIT_SECRET=your_reddit_secret
 ---
 
 ## 🚀 Future Extensions
----
+
 - Add multilingual sentiment analysis for Francophone and Arabic-speaking Africa.
 - Integrate real-time social media tracking APIs.
 - Develop a Streamlit dashboard with live trend updates.
@@ -147,7 +147,7 @@ REDDIT_SECRET=your_reddit_secret
 ---
 
 ## 📜 License
----
+
 This project is developed under the **AI Saturdays Lagos Cohort 9** program for machine learning and research purpose.
 
 ---
