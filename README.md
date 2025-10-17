@@ -24,14 +24,14 @@ SeedGuard AI is a Natural Language Processing (NLP) and Machine Learning (ML) pr
 
 
 ### **1️⃣ Data Collection & Preprocessing**
-- Tools: `snscrape`, `PRAW`, `BeautifulSoup`, `requests`
+- Tools: `Apify`, `PRAW`, `BeautifulSoup`, `requests`
 - Cleaning: Remove stopwords, URLs, emojis, duplicates.
 - Languages: English (focus), others optional via translation models.
-- Output: Structured CSV/JSON for modeling.
+- Output: Structured CSV/JSON for modelling.
 
 ### **2️⃣ NLP Modeling & Clustering**
 - Embedding Model: `DistilBERT` via `sentence-transformers`
-- Topic Modeling: `BERTopic` with `UMAP` + `HDBSCAN`
+- Topic Modelling: `BERTopic` with `UMAP` + `HDBSCAN`
 - Sentiment Analysis: `VADER`, `TextBlob`
 - Classification: Predict stakeholder groups (e.g., farmers, companies, NGOs).
 
