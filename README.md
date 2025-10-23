@@ -13,7 +13,7 @@ SeedGuard AI is a Natural Language Processing (NLP) and Machine Learning (ML) pr
 
 ## 🎯 Objectives
 
-- Collect and preprocess text data from online platforms such as X (Twitter) and Reddit using targeted keywords (e.g., *African seed sovereignty*, *agroecology*, *genetically modified maize*, etc.).
+- Collect and preprocess text data from online platforms such as X (Twitter) or QUORA (alternatively)  and Reddit using targeted keywords (e.g., *African seed sovereignty*, *agroecology*, *genetically modified maize*, *genetically modified food*, *GMO in Africa*, etc.).
 - Apply advanced NLP models (DistilBERT, BERTopic) to automatically **cluster**, **categorize**, and **analyze** public opinions.
 - Map connected topics, sentiment shifts, and emotional distributions across African regions.
 - Support evidence-based discussions and policy decisions on agricultural sovereignty and biotechnology.
@@ -49,7 +49,7 @@ SeedGuard AI is a Natural Language Processing (NLP) and Machine Learning (ML) pr
 C9-team-seedguard/
 │
 ├── data/
-│   ├── raw/                # Unprocessed data (excluded from Git)
+│                 # Unprocessed data (excluded from Git)
 │   
 │   
 │
@@ -109,7 +109,7 @@ REDDIT_SECRET=your_reddit_secret
 
 ## 🧠 Key Technologies
 
-- **Data Collection:** `snscrape`, `PRAW`, `BeautifulSoup`
+- **Data Collection:** `apify`, `PRAW`, `BeautifulSoup`
 - **NLP & Modeling:** `DistilBERT`, `BERTopic`, `Transformers`, `HDBSCAN`, `UMAP`
 - **Visualization:** `Plotly`, `Folium`, `Seaborn`, `Dash`, `Streamlit`
 - **Languages:** Python, Jupyter Notebook
